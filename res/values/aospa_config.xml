@@ -16,4 +16,8 @@
     <string name="face_enrolling_close_to_continue_description">The phone must be folded to set up or use Face Unlock</string>
     <string name="face_enrolling_do_it_later">Do it later</string>
 
+    <!-- Whether device supports increased touch sensitvity -->
+    <bool name="config_supportGloveMode">true</bool>
+
+
 </resources>
